@@ -1,0 +1,48 @@
+Este documento intenta ayudar a mejorar la seguridad de las personas en Internet.
+El documento está orientado para gente que vive en España.
+
+* Primeros pasos
+
+Unas cuantas medidas que puedes tomar de inmediato:
+
+- [[https://www.incibe.es/ciudadania/simplenews/subscriptions/landing][Apuntarse a los boletines del INCIBE]] para recibir información fiable y actualizada sobre seguridad en la vida digital.
+
+* Recursos
+** [[https://www.incibe.es/][Incibe]]
+
+El Instituto Nacional de Ciberseguridad forma parte del gobierno de España.
+El INCIBE publica materiales para desarrollar la confianza digital de los ciudadanos.
+
+*** [[https://www.incibe.es/ciudadania/simplenews/subscriptions/landing][Suscripción a boletines]]
+
+Parece que los boletines del INCIBE son fiables, están razonablemente al día, son claros y no son excesivos.
+
+*** [[https://www.incibe.es/ciudadania/herramientas][Catálogo de herramientas gratuitas]]
+
+Parecen recomendaciones adecuadas de antivirus, gestores de contraseñas, etc.
+
+** [[https://maldita.es/][Maldita.es]] / [[https://maldita.es/malditatecnologia/][Maldita Tecnología]]
+
+Maldita.es es una organización sin ánimo de lucro.
+Maldita Tecnología pretende informar sobre la tecnología y cómo nos afecta en la vida real.
+
+*** [[https://comunidad.maldita.es/u/apuntate-newsletters][Apúntate a las newsletters de Maldita.es]]
+
+El resumen semanal de Maldita.es incluye más temas, como bulos, pero es breve y bastante informativo.
+Tech en un clic está más centrado en temas tecnológicos.
+
+* Acerca de vida-segura-online-es
+
+Todo el mundo depende cada día más de Internet.
+Nuestros dispositivos conectados a Internet nos permiten hacer gestiones, comunicarnos con nuestros allegados y un sinfín de posibilidades.
+Sin embargo, existen personas que buscan el beneficio de atacar a gente online.
+No siempre es fácil saber cómo tener una vida segura online; este sitio pretende ayudar a cualquiera a estar tranquilo usando Internet.
+
+ vida-segura-online-es no pretende tener contenido propio, sólo enlazar a otros recursos que consideramos de calidad.
+
+** Colabora
+
+- Puedes darle a "editar fichero" (icono de un lápiz) para editar cualquier documento.
+  El cambio nos llegará y de considerarlo adecuado, lo incorporaremos al sitio.
+- Plantea tus dudas y sugerencias en [[https://github.com/orgs/vida-segura-online-es/discussions][el foro]].
+- Revisa [[https://github.com/vida-segura-online-es/vida-segura-online-es/issues/2][el listado de ideas]].
