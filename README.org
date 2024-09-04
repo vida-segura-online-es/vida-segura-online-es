@@ -47,6 +47,6 @@ No siempre es fácil saber cómo tener una vida segura online; este sitio preten
 - Plantea tus dudas y sugerencias en [[https://github.com/orgs/vida-segura-online-es/discussions][el foro]].
 - Revisa [[https://github.com/vida-segura-online-es/vida-segura-online-es/issues/2][el listado de ideas]].
 
-Comencé este proyecto porque no encontré nada suficientemente fácil, completo y sobretodo, abierto.
+Comencé este proyecto porque no encontré nada suficientemente fácil, completo y sobre todo, *abierto*.
 Me encantaría cerrar este sitio para reemplazarlo por algo que me complazca.
 Si conoces algo, házmelo llegar; incluso si no me convence, ¡puede que sea un buen recurso a añadir!
