@@ -36,6 +36,11 @@ Tech en un clic está más centrado en temas tecnológicos.
 Un interesante proyecto colaborativo para documentar prácticas de seguridad, bastante parecido a este proyecto y que parece de buena calidad.
 [[https://securityinabox.org/es/][La mayoría del contenido está disponible en castellano]], así como otros idiomas.
 
+** [[https://ssd.eff.org/es/playlist/quieres-un-kit-basico-de-seguridad][¿Quiéres un Kit Básico de Seguridad?]]
+
+La Electronic Frontier Foundation (EFF) es una organización más bien orientada a las libertades online.
+Pero disponen de algunos materiales que tienen intersección con la seguridad de las personas en Internet, como esta guía con traducción al castellano.
+
 * Articulos propios
 ** [[usando-dispositivos-y-redes-ajenos.md][Usando dispositivos y redes ajenos]]
 * Acerca de vida-segura-online-es
